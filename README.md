@@ -16,3 +16,4 @@ At the end of the code, there is a function called debate(). This function takes
 Therefore, please insert your API key in the “Your open AI API” field and specify the topic and the number of responses. Then observe the argument and its summary.
 
 ## Results
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a868206e-ddc3-407b-b590-8c168540cdc9">
